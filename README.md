@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Manmeet04
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me though linkden profile
 
 <!---
